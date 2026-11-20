@@ -1,5 +1,5 @@
 
-const WHATSAPP_NUMBER = "966500000000";
+const WHATSAPP_NUMBER = "966 54 661 4935";
 const DEFAULT_WHATSAPP_NUMBER = "966546614935";
 
 const whatsappButton = document.getElementById("whatsappButton");
